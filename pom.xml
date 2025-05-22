@@ -25,6 +25,13 @@
 		</dependency>
 
 		<dependency>
+			<groupId>jakarta.servlet</groupId>
+			<artifactId>jakarta.servlet-api</artifactId>
+			<version>5.0.0</version> <!-- ya 4.0.4 for older Java EE -->
+			<scope>provided</scope>
+		</dependency>
+
+		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
 			<version>2.5</version> <!-- or match your version -->
