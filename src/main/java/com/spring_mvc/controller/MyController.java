@@ -11,7 +11,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.spring_mvc.model.User;
 
-import jakarta.servlet.http.HttpServletRequest;
 
 @Controller
 public class MyController {
