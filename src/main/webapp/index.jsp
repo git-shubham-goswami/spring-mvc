@@ -13,7 +13,7 @@
 
 	<div class="container mt-5">
 		<div class="jumbotron text-center bg-light p-5 rounded">
-			<h1 class="display-4">Hey! Welcome to My MVC App!</h1>
+			<h1 class="display-4"> Welcome to My MVC App!</h1>
 			<p class="lead">This is a simple Java MVC web application built to demonstrate core concepts of the MVC pattern using Servlets and JSP.</p>
 			<hr class="my-4">
 			<p>Explore how controllers, views, and models work together to serve dynamic content.</p>
